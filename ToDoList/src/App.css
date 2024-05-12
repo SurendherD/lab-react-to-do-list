@@ -1,0 +1,25 @@
+*{
+    background-color: aquamarine;
+}
+
+.container{
+    flex: 50%;
+    text-align: center;
+    margin-top: 5%;
+}
+
+.inputBox,.displayBox{
+    width: 500px;
+    height: 2rem;
+    border-radius: 10px;
+    font-size: large;
+    margin-top: 10px;
+}
+
+.addbtn,.deletebtn{
+    height: 2rem;
+    border-radius: 10px;
+    margin-left: 10px;
+    cursor: pointer;
+    font-size: large;
+}
